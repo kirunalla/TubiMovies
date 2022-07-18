@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "photo-placeholder-icon-14.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "photo-placeholder-icon-15.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "photo-placeholder-icon-16.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

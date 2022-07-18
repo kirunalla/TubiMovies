@@ -1,0 +1,4 @@
+1. This challenge app is built with MVVM architecture for modular code, easy unit testing, easy ui updates via binding and address MVC issues. 
+2. Implemented the LRU cache using DoublyLinkedList and Dictionary. This makes O(1) time complexity for adding and retrieving elements.
+3. Third party SDWebImage used for asynchronous image download and image caching.Swift Combine framework used for writing simplified asynchronous code.
+4. Covered the unit testing for view models.
