@@ -2,7 +2,7 @@
 //  Movie.swift
 //  TubiMovies
 //
-//  Created by Ganesan, Veeramani on 7/10/22.
+//  Created by Ganesan, Veeramani on 7/18/22.
 //
 
 import Foundation
